@@ -133,7 +133,7 @@ body {
 
 /* SOBRE */
 .secao-sobre {
-  background: url('IMG/Sobre/FundoSobre.png') no-repeat center/cover;
+  background: url('../IMG/Sobre/FundoSobre.png') no-repeat center/cover;
   padding: 100px 0;
   max-height: 116vh;
 }
@@ -215,7 +215,7 @@ body {
 
 /* HISTORIA */
 .secao-historia {
-  background: url('IMG/Historia/fundoHistoria.png') no-repeat center/cover;
+  background: url('../IMG/Historia/fundoHistoria.png') no-repeat center/cover;
   padding: 80px 0;
   text-align: center;
   max-height: 109vh;
@@ -248,7 +248,7 @@ body {
 
 .containerHistoria {
   display: flex;
-  background: url('IMG/Historia/fundoTexto.png') no-repeat center/cover;
+  background: url('../IMG/Historia/fundoTexto.png') no-repeat center/cover;
   padding: 50px;
   margin-top: -14vh;
   justify-content: center;
@@ -271,7 +271,7 @@ body {
 /* GAMEPLAY */
 .secao-gameplay {
     padding: 100px 0;
-    background: url('IMG/Gameplay/FundoGameplay.png') no-repeat center/cover;
+    background: url('../IMG/Gameplay/FundoGameplay.png') no-repeat center/cover;
     display: flex;
     justify-content: center;
 }
@@ -351,9 +351,9 @@ body {
 
 /* NEWSLETTER */
 .secao-newsletter {
-  background: url('IMG/Newsletter/fundoNewsLetter.png') no-repeat center/cover;
+  background: url('../IMG/Newsletter/fundoNewsLetter.png') no-repeat center/cover;
   padding: 80px 0;
-   text-align: center;
+  text-align: center;
   color: white;
 }
 
